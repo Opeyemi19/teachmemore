@@ -13,3 +13,5 @@
 * https://jelastic.com/blog/container-virtual-machines-hosted-together/
 
 * https://www.virtualtechgurus.com/vms-vs-containers-in-cloud-environment/
+
+* https://www.redhat.com/fr/topics/cloud-computing/what-is-hybrid-cloud
